@@ -1,0 +1,26 @@
+.login-form {
+    padding: 20px;
+    border-radius: 15px;
+}
+input {
+    margin: 8px;
+    box-sizing: 8px;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 260px;
+    height: 42px;
+    padding: 8px 12px;
+    border: 1px solid rgb(125, 161, 202);
+}
+input[type="submit"] {
+    width: 260px;
+    height: 42px;
+    padding: 8px 12px;
+    border: 1px solid rgb(194, 149, 149);
+    background-color: rgb(122, 189, 211);
+    font-weight: bold;
+    cursor: pointer;
+
+}
